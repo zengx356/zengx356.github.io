@@ -1,0 +1,9 @@
+#navig > li{
+	padding-left:30px;
+	padding-right:30px;
+}
+#social-icon > li{
+	padding-left:10px;
+	padding-right:10px;
+	font-size: 30px;
+}

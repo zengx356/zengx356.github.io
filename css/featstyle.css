@@ -1,0 +1,32 @@
+#navig > li{
+	padding-left:30px;
+	padding-right:30px;
+}
+#social-icon > li{
+	padding-left:10px;
+	padding-right:10px;
+	font-size: 30px;
+}
+.card{
+	margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+}
+
+body{
+	font-family: 'Raleway', sans-serif;
+	height: 100vh;
+	background: no-repeat center center / cover;
+	background-image: url("https://www.ontariosystems.com/wp-content/uploads/2018/08/twitter_AI-in-Receivables.jpg");
+	/*overflow:hidden;*/
+}
+
+#aboutme{
+	text-decoration: underline;
+	text-align: center;
+}
+
+.carousel-inner img{
+	width: auto;
+	height: auto;
+}
