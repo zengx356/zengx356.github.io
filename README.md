@@ -1,5 +1,18 @@
 # Personal Portfolio Site
 
-This project uses HTML, CSS, and Bootstrap 4 for its contents.
+This project uses HTML, CSS, JavaScript, and Bootstrap 4.
 
-------------------------Work In Progress--------------------------
+BUG FIXES
+----------------------------------------------------------------------------------
+1. Collapse bar not showing sections
+
+----------------------------------------------------------------------------------
+
+
+
+THINGS TO IMPLEMENT
+----------------------------------------------------------------------------------
+1. Pictures for carousel
+
+----------------------------------------------------------------------------------
+
