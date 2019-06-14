@@ -4,7 +4,6 @@ This project uses HTML, CSS, JavaScript, and Bootstrap 4.
 
 BUG FIXES
 ----------------------------------------------------------------------------------
-1. Collapse bar not showing sections
 
 ----------------------------------------------------------------------------------
 
